@@ -8,8 +8,6 @@ A desktop e-book reader for language learners intended to help learning from rea
 
 **This project has been retired in 2018.** (It required a substantial rewrite due to the fundamentally flawed way in which it approached loading and rendering documents, and at the same time the author has lost use for it, having found an e-reader sufficient for his learning purposes and more comfortable to use).
 
-**If you are looking for similar software**, please give [Coditra](https://github.com/fauu/Coditra) a look. It is intended for translation work, but it has similar functionality to Lisons! and can also be useful for learning through reading.
-
 ## Features
 
 * Epub and plain text support
@@ -24,7 +22,7 @@ A desktop e-book reader for language learners intended to help learning from rea
 
 ## Building
 
-1. Clone the repository: ```git clone https://github.com/fauu/lisons.git```
+1. Clone the repository: ```git clone https://github.com/ethhandy/lisons.git```
 2. Change to project root directory: ```cd lisons```
 3. Install dependencies: ```yarn install```
 4. Build: ``yarn build:prod``
